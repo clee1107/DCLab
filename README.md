@@ -14,3 +14,8 @@ PowerShell Scripts for Active Directory Domain Controller in lab.
     + Display list of Interfaces for selection (Use InterfaceIndex for selection)
     + Prompt for IP configuration settings
     + Set DNS for local host (127.0.0.1)
+
+## ComputerRename.ps1
+
+    + Prompt for new computer name
+    + Set name and restart
